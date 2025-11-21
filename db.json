@@ -1,0 +1,70 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "TechCorp Solutions",
+      "industry": "Technology",
+      "location": "San Francisco",
+      "size": "1000-5000",
+      "founded": 2010,
+      "description": "Leading provider of enterprise software solutions",
+      "website": "https://techcorp.com",
+      "email": "contact@techcorp.com"
+    },
+    {
+      "id": "2",
+      "name": "GreenEnergy Inc",
+      "industry": "Energy",
+      "location": "Austin",
+      "size": "500-1000",
+      "founded": 2015,
+      "description": "Renewable energy solutions for sustainable future",
+      "website": "https://greenenergy.com",
+      "email": "info@greenenergy.com"
+    },
+    {
+      "id": "3",
+      "name": "HealthPlus Medical",
+      "industry": "Healthcare",
+      "location": "Boston",
+      "size": "5000+",
+      "founded": 2005,
+      "description": "Comprehensive healthcare services and medical technology",
+      "website": "https://healthplus.com",
+      "email": "support@healthplus.com"
+    },
+    {
+      "id": "4",
+      "name": "EduTech Innovations",
+      "industry": "Education",
+      "location": "New York",
+      "size": "100-500",
+      "founded": 2018,
+      "description": "Revolutionizing education through technology",
+      "website": "https://edutech.com",
+      "email": "hello@edutech.com"
+    },
+    {
+      "id": "5",
+      "name": "FinSecure Bank",
+      "industry": "Finance",
+      "location": "Chicago",
+      "size": "5000+",
+      "founded": 1995,
+      "description": "Trusted financial services and banking solutions",
+      "website": "https://finsecure.com",
+      "email": "service@finsecure.com"
+    },
+    {
+      "id": "6",
+      "name": "LogiMove Transport",
+      "industry": "Logistics",
+      "location": "Miami",
+      "size": "1000-5000",
+      "founded": 2012,
+      "description": "Efficient logistics and transportation services",
+      "website": "https://logimove.com",
+      "email": "shipping@logimove.com"
+    }
+  ]
+}
